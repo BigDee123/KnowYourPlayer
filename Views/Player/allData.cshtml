@@ -1,0 +1,107 @@
+﻿@using knowYourPlayer.Models
+@model knowYourPlayer.Models.baseViewmodel
+@{
+    ViewBag.Title = "allData";
+}
+
+<br />
+<style>
+
+    
+    body{
+
+        background-color:sandybrown;
+    }
+</style>
+
+
+    <table>
+
+        <tr>
+
+            <th>player ID</th>
+            <th>player Name</th>
+            <th>player Age</th>
+
+        </tr>
+
+        @foreach (var pl in Model.player)
+        {
+            <tr>
+
+                <td>@pl.playerID</td>
+
+                <td>@pl.playerName</td>
+
+                <td>@pl.playerAge</td>
+
+            </tr>
+
+
+        }
+
+    </table>
+    <br />
+
+    <table>
+
+        <tr>
+
+            <th>Team ID</th>
+            <th>player Name</th>
+
+
+        </tr>
+
+        @foreach (var te in Model.team)
+        {
+            <tr>
+
+                <td>@te.teamIG</td>
+
+                <td>@te.teamName</td>
+
+            </tr>
+
+
+        }
+
+    </table>
+    <br />
+
+
+
+    <style>
+        .rank, th, td {
+            border: 1px solid black;
+            width: 20%;
+        }
+    </style>
+
+    <div class="rank">
+        <table>
+
+            <tr>
+
+                <th>Rank ID</th>
+                <th>Num Of goals</th>
+
+
+            </tr>
+
+            @foreach (var ra in Model.rank )
+            {
+                <tr>
+
+                    <td>@ra.rankID</td>
+
+                    <td>@ra.numgoals</td>
+
+                </tr>
+
+
+            }
+
+        </table>
+
+    </div>

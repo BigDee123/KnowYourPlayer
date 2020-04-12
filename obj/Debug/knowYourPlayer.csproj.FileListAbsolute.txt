@@ -1,0 +1,141 @@
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\csc.exe
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\vbc.exe
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll.config
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.pdb
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\EntityFramework.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\EntityFramework.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.xml
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.dll
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.pdb
+C:\Users\21500052\Downloads\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csprojResolveAssemblyReference.cache
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\csc.exe
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\vbc.exe
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll.config
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.pdb
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\EntityFramework.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\EntityFramework.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.xml
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csprojResolveAssemblyReference.cache
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.dll
+C:\Users\21507202\Desktop\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.pdb
+F:\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.dll
+F:\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.pdb
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll.config
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.pdb
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\Microsoft.Web.Infrastructure.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.xml
+E:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csprojAssemblyReference.cache
+E:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csproj.CoreCompileInputs.cache
+E:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csproj.CopyComplete
+E:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.dll
+E:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.pdb
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\csc.exe
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\System.Collections.Immutable.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\System.Reflection.Metadata.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\vbc.exe
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\VBCSCompiler.exe
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\roslyn\VBCSCompiler.exe.config
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll.config
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\knowYourPlayer.pdb
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\Microsoft.Web.Infrastructure.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\EntityFramework.SqlServer.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Razor.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Deployment.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Webpages.Razor.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Helpers.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\bin\System.Web.Mvc.xml
+J:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csprojResolveAssemblyReference.cache
+J:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.csproj.CoreCompileInputs.cache
+J:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.dll
+J:\D\School Related\knowYourPlayer\knowYourPlayer\obj\Debug\knowYourPlayer.pdb

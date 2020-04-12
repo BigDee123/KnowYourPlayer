@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<br />
+<style>
+ 
+    
+    body{
+
+        background-color:sandybrown;
+    }
+</style>
+<p><h4>HOME PAGE</h4></p>
+<div class="topnav">
+    <ul>
+
+        
+
+     
+        <li> @Html.ActionLink("Register Player", "RegisterPlayer", "Player")</li> 
+        <li>  @Html.ActionLink("View All Player Details", "allData", "Player")</li>
+        <li>  @Html.ActionLink("View Player Information", "PlayerView", "Player")</li>
+        <li>  @Html.ActionLink("View Tinformation", "TeamView", "Player")</li>
+        <li>  @Html.ActionLink("View Ranking information", "RankView", "Player")</li>
+        <li>  @Html.ActionLink("Serach information", "Vsearch", "Player")</li>
+
+
+
+
+    </ul>
+</div>
+
+
+

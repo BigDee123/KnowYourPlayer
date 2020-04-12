@@ -1,0 +1,52 @@
+﻿@using knowYourPlayer.Models
+@model List<Team>
+@{
+    ViewBag.Title = "TeamView";
+}
+
+<br />
+
+<style>
+
+    .team,th,td{
+
+        border:1px solid black;
+        width:20%;
+
+    }
+
+
+    
+    body{
+
+        background-color:sandybrown;
+    }
+
+</style>
+<div class="team" >
+    <table >
+
+        <tr>
+
+            <th>Team ID</th>
+            <th>player Name</th>
+
+
+        </tr>
+
+        @foreach (var te in Model)
+        {
+            <tr>
+
+                <td>@te.teamIG</td>
+
+                <td>@te.teamName</td>
+
+            </tr>
+
+
+        }
+
+    </table>
+
+</div>

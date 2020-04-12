@@ -1,0 +1,53 @@
+﻿@using knowYourPlayer.Models
+@model List<Player>
+
+@{
+    ViewBag.Title = "PlayerView";
+}
+
+<br />
+
+<style>
+.player ,th,td{
+
+   border:1px solid black;
+   width:50%;
+
+}
+
+
+    body{
+
+        background-color:sandybrown;
+    }
+
+</style>
+<div class="player">
+    <table  >
+
+        <tr>
+
+            <th>player ID</th>
+            <th>player Name</th>
+            <th>player Age</th>
+
+        </tr>
+
+        @foreach (var pl in Model)
+        {
+            <tr>
+
+                <td>@pl.playerID</td>
+
+                <td>@pl.playerName</td>
+
+                <td>@pl.playerAge</td>
+
+            </tr>
+
+
+        }
+
+    </table>
+</div>
+

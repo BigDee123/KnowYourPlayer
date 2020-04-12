@@ -1,0 +1,51 @@
+﻿@using knowYourPlayer.Models
+@model List<Rank>
+@{
+    ViewBag.Title = "RankView";
+}
+
+<br />
+
+<style>
+    .rank,th,td{
+        border: 1px solid black;
+        width:20%;
+
+    }
+
+
+    body{
+
+        background-color:sandybrown;
+    }
+
+</style>
+
+<div class="rank">
+    <table>
+
+        <tr>
+
+            <th>Rank ID</th>
+            <th>Num Of goals</th>
+
+
+        </tr>
+
+        @foreach (var ra in Model)
+        {
+            <tr>
+
+                <td>@ra.rankID</td>
+
+                <td>@ra.numgoals</td>
+
+            </tr>
+
+
+        }
+
+    </table>
+
+</div>
+
